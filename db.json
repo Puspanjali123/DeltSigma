@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "puspanjali",
+      "lastname": "Graham",
+      "email": "sincere@april.biz",
+      "phone": "1-770-736-8031"
+    },
+    {
+      "id": "2",
+      "firstname": "Ervin",
+      "lastname": "Howell",
+      "email": "ervin.howell@example.com",
+      "phone": "010-692-6593"
+    },
+    {
+      "id": "3",
+      "firstname": "Clementine",
+      "lastname": "Bauch",
+      "email": "clementine.bauch@example.com",
+      "phone": "1-463-123-4447"
+    },
+    {
+      "id": "4",
+      "firstname": "Patricia",
+      "lastname": "Lebsack",
+      "email": "patricia.lebsack@example.com",
+      "phone": "493-170-9623"
+    },
+    {
+      "id": "5",
+      "firstname": "Chelsey",
+      "lastname": "Dietrich",
+      "email": "chelsey.dietrich@example.com",
+      "phone": "254-954-1289"
+    },
+    {
+      "id": "6",
+      "firstname": "Dennis",
+      "lastname": "Schulist",
+      "email": "dennis.schulist@example.com",
+      "phone": "1-477-935-8478"
+    },
+    {
+      "id": "7",
+      "firstname": "Kurtis",
+      "lastname": "Weissnat",
+      "email": "kurtis.weissnat@example.com",
+      "phone": "210-067-6132"
+    },
+    {
+      "id": "8",
+      "firstname": "Nicholas",
+      "lastname": "Runolfsdottir",
+      "email": "nicholas.runolfsdottir@example.com",
+      "phone": "586-493-6943"
+    },
+    {
+      "id": "9",
+      "firstname": "Glenna",
+      "lastname": "Reichert",
+      "email": "glenna.reichert@example.com",
+      "phone": "1-775-976-6794"
+    },
+    {
+      "id": "10",
+      "firstname": "Clementina",
+      "lastname": "DuBuque",
+      "email": "clementina.dubuque@example.com",
+      "phone": "024-648-3804"
+    }
+  ]
+}
